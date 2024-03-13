@@ -15,7 +15,7 @@
     lea dx , msg1
     int 21h
 
-    mov dl ,20h
+    mov dl ,20h  ?for space ascii value in hexadecimal
     mov ah ,02h
     int 21h
 
