@@ -1,8 +1,3 @@
-This the git repo for the Assembly where I will upload the code I do in IIITDM 
-anyone can use them my main motto is to help others even a little bit from my knowledge 
-
-and here is some of impotant parts in assembly 
-<<<<<<< HEAD
 # -> print:
 ## ; load the system call number 9 to ah
 ## ; load the EA of message in to dx
