@@ -6,9 +6,9 @@ and here is some of impotant parts in assembly
 ; load the system call number 9 to ah
 ; load the EA of message in to dx
 ; call the interrupt
-   ## mov ah, 09h                             
-   ## lea dx, msg                             
-   ## int 21 h                                
+   ### mov ah, 09h                             
+   ### lea dx, msg                             
+   ### int 21 h                                
 
 ->  printing ascii or someting in the register
 ; move the result to dl
