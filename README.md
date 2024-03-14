@@ -23,6 +23,7 @@ and here is some of impotant parts in assembly
 
 
     points to be noted
+    
 
     *All arthemetic op can only be done in registetr.
     
